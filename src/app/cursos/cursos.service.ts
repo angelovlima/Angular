@@ -9,7 +9,7 @@ export class CursosService {
     return[
       {id: 1, nome: "Game Dev"},
       {id: 2, nome: "Pesca"},
-      {id: 3, nome: "Repirar - Avançado"}
+      {id: 3, nome: "Java"}
     ]
   }
 
